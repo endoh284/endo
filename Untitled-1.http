@@ -1,0 +1,6 @@
+POST https://chatbot-poc-oai-yuka.openai.azure.com//openai/deployments/gpt-35/chat/completions?api-version=2023-03-15-preview
+Content-Type: application/json
+api-key: e9306a0c27714d08b8cf47ec3d9a0ac5
+
+{"messages":[{"role": "user", "content": "Once upon a time,"}]}
+

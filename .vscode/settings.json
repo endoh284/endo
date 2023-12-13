@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b354c669-7dff-4a62-9338-cf424268b5d0/resourceGroups/chatobot_endoyuka/providers/Microsoft.Web/sites/chatbot-poc-oai-yuka",
+    "appService.deploySubpath": "."
+}
