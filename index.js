@@ -1,3 +1,10 @@
+let appInsights = require('applicationinsights');
+appInsights.setup('InstrumentationKey=62abb699-99f4-41a4-bdbc-6069f4e5c891;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/');
+appInsights.start();
+
+
+
+
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
